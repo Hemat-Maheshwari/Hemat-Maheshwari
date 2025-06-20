@@ -9,9 +9,8 @@
 
 - 🎓 3rd Year Computer System Engineering Student at NED University  
 - 🤖 Exploring AI, ML, LLMs & Generative Tech (e.g., GPT-4, Stable Diffusion)  
-- 💻 Building open-source projects like **AI Meme Generator**, **IK.AI Timeline**  
 - 🌐 Learning Web Dev with **HTML/CSS, Flask, Streamlit**  
-- 📚 Currently working on a **Political Timeline AI Project (IK.AI)**  
+- 📚 Currently working on **AI/ML Projects**  
 - 📫 How to reach me: hamatmaheshwari@gmail.com | [LinkedIn](http://linkedin.com/in/hemat-maheshwari)
 
 ---
@@ -31,9 +30,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemat-Maheshwari&show_icons=true&theme=tokyonight" alt="stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hemat-Maheshwari&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
